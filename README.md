@@ -141,7 +141,7 @@ saída: omd luo an
 1. No repositório vá em *code* copie o URL
 1. Abra o Git bash
 1. Digite git clone git@github.com:HugoStorM/DesafiosCapgemini.git
-1. importe/abra o arquivo que foi baixado
+1. Após abrir uma IDE importe/abra o arquivo que foi baixado
 1. Abra o projeto e na pasta srs, procure e execute os arquivos java
 
 - **2º Modo** 
